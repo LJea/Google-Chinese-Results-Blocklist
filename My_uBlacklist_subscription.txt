@@ -1,6 +1,9 @@
 *://*.aliyun.com/sswd/*
 *://www.teapm.com/*
-*://zhidao.baidu.com/index/?word=*
 *://search.bilibili.com/all?keyword=*
 *://*.csdn.net/*
 *://www.baidu.com/from=*
+*://www.cnblogs.com/*
+*://*.linuxboy.net/*
+*://zhidao.baidu.com/*
+*://cloud.tencent.com/developer/information/*
