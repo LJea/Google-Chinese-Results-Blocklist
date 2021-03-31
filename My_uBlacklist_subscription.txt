@@ -7,3 +7,4 @@
 *://*.linuxboy.net/*
 *://zhidao.baidu.com/*
 *://cloud.tencent.com/developer/information/*
+*://www.shuzhiduo.com/*
