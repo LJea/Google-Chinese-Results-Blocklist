@@ -9,3 +9,5 @@
 *://cloud.tencent.com/developer/information/*
 *://www.shuzhiduo.com/*
 *://topic.alibabacloud.com/*
+*://*.osp.io/*
+*://www.huaweicloud.com/articles/*
